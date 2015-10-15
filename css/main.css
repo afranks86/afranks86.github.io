@@ -1,6 +1,6 @@
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -116,4 +116,10 @@ div .pub-full {
 
 .pub-info blockquote {
     text-align: justify;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
